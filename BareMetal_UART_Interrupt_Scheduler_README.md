@@ -172,7 +172,3 @@ Prince Viradiya\
 Electronics & Communication Engineering
 
 ------------------------------------------------------------------------
-
-## 📜 License
-
-MIT License
